@@ -15,4 +15,5 @@ python campus_guide.py  主系统python campus_map.py  地图可视化
 python -m pytest test_campus_guide.py -v
 
 截图
-campus_map.png
+![校园地图](campus_map.png)
+
